@@ -435,7 +435,7 @@ und bearbeiten. Die Zeile sorgt dafür, dass das Skript bei jeden Start ausgefü
 - [Debian: FluidSynth als systemd-Service](https://blog.geierb.de/debian-fluidsynth-als-systemd-service/)
 - [Linuxaudio.org: Raspberry Pi and realtime, low-latency audio](https://wiki.linuxaudio.org/wiki/raspberrypi)
 - [Raspberry Pi Performance Tuning und Tweaks](http://raspberry.tips/raspberrypi-tutorials/raspberry-pi-performance-tuning-und-tweaks)
-- 
+- [Daneil A. Russel: Hammer nonlinearity, dynamics and the piano sound](https://www.acs.psu.edu/drussell/Piano/Dynamics.html)
 
 
 
